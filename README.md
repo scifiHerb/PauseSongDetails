@@ -1,5 +1,6 @@
 # PauseSongDetails
 ポーズメニューの横で譜面情報を表示するMOD
+
 ・ポーズメニュー横のボタンで開閉できるようにしました
 
 ・ModSettingsでMODのON OFF出来るように
